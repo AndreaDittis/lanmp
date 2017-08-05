@@ -4,20 +4,20 @@ LAMP/LNMP 环境搭建和常用配置
 
 ## lamp常用配置操作
 
-* [环境搭建](0-lamp.md)
-* [虚拟主机](1-apache-enable-virtual-host.md)
-* [Apache用户认证](2-user-authentication.md)
-* [域名跳转](3-domain-redirect.md)
-* [Apache访问日志](4-apache-log.md)
-* [访问日志不记录静态文件](5-dont-log-static-resources.md)
-* [访问日志切割](6-log-rotate.md)
-* [静态元素过期时间](7-static-resources-expire.md)
-* [配置防盗链](8-referer-restriction.md)
-* [访问控制Directory](9-access-restriction.md)
-* [限定某个目录禁止解析php](10-do-not-execute-php.md)
-* [限制user_agent](11-user-agent-restriction.md)
-* [php相关配置](12-php-related-config.md)
-* [php扩展模块安装](13-php-extension.md)
+* [环境搭建](lamp/00-lamp.md)
+* [虚拟主机](lamp/01-apache-enable-virtual-host.md)
+* [Apache用户认证](lamp/02-user-authentication.md)
+* [域名跳转](lamp/03-domain-redirect.md)
+* [Apache访问日志](lamp/04-apache-log.md)
+* [访问日志不记录静态文件](lamp/05-dont-log-static-resources.md)
+* [访问日志切割](lamp/06-log-rotate.md)
+* [静态元素过期时间](lamp/07-static-resources-expire.md)
+* [配置防盗链](lamp/08-referer-restriction.md)
+* [访问控制Directory](lamp/09-access-restriction.md)
+* [限定某个目录禁止解析php](lamp/10-do-not-execute-php.md)
+* [限制user_agent](lamp/11-user-agent-restriction.md)
+* [php相关配置](lamp/12-php-related-config.md)
+* [php扩展模块安装](lamp/13-php-extension.md)
 
 
 ## MYSQL 下载地址：
